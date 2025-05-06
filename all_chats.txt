@@ -1,0 +1,2922 @@
+[
+  {
+    "chat_id": 1,
+    "user": "dhWmPint",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 2,
+    "user": "dhWmPint",
+    "operator": "XlsYRzdl",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 3,
+    "user": "ykHKSKHg",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 4,
+    "user": "ykHKSKHg",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 5,
+    "user": "iPdPTTaC",
+    "operator": "FfAywGhs",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 6,
+    "user": "dvQkoZIB",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 7,
+    "user": "dhWmPint",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 8,
+    "user": "NWeciHDF",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 9,
+    "user": "drmazstg",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 10,
+    "user": "zZbKRryS",
+    "operator": "XlsYRzdl",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 11,
+    "user": "PezaTpCT",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 12,
+    "user": "eDrVoTpz",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 13,
+    "user": "PezaTpCT",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 14,
+    "user": "dvQkoZIB",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 15,
+    "user": "NWeciHDF",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 16,
+    "user": "drmazstg",
+    "operator": "FfAywGhs",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 17,
+    "user": "ykHKSKHg",
+    "operator": "FfAywGhs",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 18,
+    "user": "dvQkoZIB",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 19,
+    "user": "eDrVoTpz",
+    "operator": "XlsYRzdl",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 20,
+    "user": "zZbKRryS",
+    "operator": "tjwFaopU",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 21,
+    "user": "ykHKSKHg",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 1,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 22,
+    "user": "dvQkoZIB",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 1,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 23,
+    "user": "dhWmPint",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 24,
+    "user": "iPdPTTaC",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 25,
+    "user": "zZbKRryS",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 26,
+    "user": "NWeciHDF",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 27,
+    "user": "eDrVoTpz",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 28,
+    "user": "ykHKSKHg",
+    "operator": "FfAywGhs",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 29,
+    "user": "zZbKRryS",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 30,
+    "user": "dvQkoZIB",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 31,
+    "user": "PezaTpCT",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 32,
+    "user": "NWeciHDF",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 33,
+    "user": "eDrVoTpz",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 34,
+    "user": "PezaTpCT",
+    "operator": "FfAywGhs",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 35,
+    "user": "iPdPTTaC",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 36,
+    "user": "dvQkoZIB",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 37,
+    "user": "drmazstg",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 38,
+    "user": "drmazstg",
+    "operator": "FfAywGhs",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 39,
+    "user": "zZbKRryS",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 40,
+    "user": "dvQkoZIB",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 41,
+    "user": "zZbKRryS",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 42,
+    "user": "eDrVoTpz",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 43,
+    "user": "eDrVoTpz",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 44,
+    "user": "zZbKRryS",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 45,
+    "user": "eDrVoTpz",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 46,
+    "user": "eDrVoTpz",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 1,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 47,
+    "user": "zZbKRryS",
+    "operator": "XlsYRzdl",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 48,
+    "user": "drmazstg",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 49,
+    "user": "JgnyfrnT",
+    "operator": "XlsYRzdl",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 50,
+    "user": "zZbKRryS",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 51,
+    "user": "dvQkoZIB",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 1,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 52,
+    "user": "iPdPTTaC",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 53,
+    "user": "ykHKSKHg",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 54,
+    "user": "ykHKSKHg",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 55,
+    "user": "eDrVoTpz",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 56,
+    "user": "dvQkoZIB",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 57,
+    "user": "ykHKSKHg",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 58,
+    "user": "dhWmPint",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 59,
+    "user": "dhWmPint",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 1,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 60,
+    "user": "JgnyfrnT",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 61,
+    "user": "zZbKRryS",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 62,
+    "user": "drmazstg",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 63,
+    "user": "dvQkoZIB",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 64,
+    "user": "dhWmPint",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 65,
+    "user": "zZbKRryS",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 66,
+    "user": "iPdPTTaC",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 1,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 67,
+    "user": "dhWmPint",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 1,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 68,
+    "user": "dvQkoZIB",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 69,
+    "user": "dhWmPint",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 70,
+    "user": "NWeciHDF",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 71,
+    "user": "dhWmPint",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 72,
+    "user": "zZbKRryS",
+    "operator": "tjwFaopU",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 73,
+    "user": "dvQkoZIB",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 1,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 74,
+    "user": "NWeciHDF",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 75,
+    "user": "ykHKSKHg",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 76,
+    "user": "NWeciHDF",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 77,
+    "user": "ykHKSKHg",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 78,
+    "user": "PezaTpCT",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 79,
+    "user": "dvQkoZIB",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 80,
+    "user": "eDrVoTpz",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 81,
+    "user": "dvQkoZIB",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 82,
+    "user": "dvQkoZIB",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 83,
+    "user": "JgnyfrnT",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 1,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 84,
+    "user": "PezaTpCT",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 85,
+    "user": "iPdPTTaC",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 86,
+    "user": "zZbKRryS",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 87,
+    "user": "PezaTpCT",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 88,
+    "user": "dvQkoZIB",
+    "operator": "XlsYRzdl",
+    "is_closed": 0,
+    "csat": null,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 89,
+    "user": "zZbKRryS",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 90,
+    "user": "iPdPTTaC",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 91,
+    "user": "PezaTpCT",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 92,
+    "user": "PezaTpCT",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 93,
+    "user": "NWeciHDF",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 94,
+    "user": "eDrVoTpz",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 3,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 95,
+    "user": "dhWmPint",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 96,
+    "user": "zZbKRryS",
+    "operator": "tjwFaopU",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 97,
+    "user": "NWeciHDF",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 1,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 98,
+    "user": "ykHKSKHg",
+    "operator": "XlsYRzdl",
+    "is_closed": 1,
+    "csat": 5,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 99,
+    "user": "eDrVoTpz",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 4,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  },
+  {
+    "chat_id": 100,
+    "user": "PezaTpCT",
+    "operator": "FfAywGhs",
+    "is_closed": 1,
+    "csat": 2,
+    "messages": [
+      {
+        "sender": "user",
+        "body": "Привет, нужна помощь",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "operator",
+        "body": "ответ",
+        "sent_at": "2025-05-06 15:10:51"
+      },
+      {
+        "sender": "user",
+        "body": "вопрос",
+        "sent_at": "2025-05-06 15:10:51"
+      }
+    ]
+  }
+]
